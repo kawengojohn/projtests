@@ -9,6 +9,11 @@ body{
     padding: 10px;
     background: linear-gradient(skyblue);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(university_analysts.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 a{
