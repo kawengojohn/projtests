@@ -11,9 +11,9 @@ body{
 }
 .card{
     background: yellowgreen;
-    width: 70px;
+    width: 100px;
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
     border-radius: 0 0 12px 12px;
 }
 nav{
@@ -24,7 +24,7 @@ nav{
 }
 .card img{
     object-fit: cover;
-    width: 70px;
+    width: 100px;
     height: 100px;
 }
 .heading{
